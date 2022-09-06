@@ -15,6 +15,6 @@
 <img src=shark images/shark food chain.jpg alt=food chain with shark as top predator>
 	<h3><b><style="color:blue;">Where Sharks Live</b></h3>
 <p><strong>My third paragraph</strong></p>
-<mig src=shark images/shark habitat.jpg alt=shark near some coral>
+<img src=shark images/shark habitat.jpg alt=shark near some coral>
 </body>
 </html>
