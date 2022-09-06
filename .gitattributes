@@ -1,5 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
++<!DOCTYPE html>
+<html>
 <head>
 <title>html 1</title>
 </head>
